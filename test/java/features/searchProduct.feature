@@ -8,3 +8,4 @@ Feature: Search and Place the order for Products
     And paso 7 leo
     And paso 8 leo
     And paso 9 leo
+    And Paso 10 leo
