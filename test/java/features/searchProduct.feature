@@ -5,3 +5,6 @@ Feature: Search and Place the order for Products
     When user searched with Shortname "Tom" and extracted actual name of product
     Then user searched for "Tom" shortname in offers page
     And validate product name in offer page matches with Landing Page
+    And paso 7
+    And Paso 8
+    And Paso 9
